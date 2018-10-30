@@ -309,6 +309,9 @@ input::placeholder {
     Utilities: Mute
     Mute with opacity
 */
+.u-muted{
+  opacity: 0.6;
+}
 
 /*------------------------------------*\
 #STATES
